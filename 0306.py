@@ -35,7 +35,7 @@ print(poem1.split('\n'))
 
 # In[101]:
 
-poem2 =['a b c d e f g', 'hijklmnopq', 'rstuvwxyz']
+poem2 =['a b c d e f g', 'hijknopq', 'rstuvwxyz']
 s='~'
 s.join(poem2)
 
